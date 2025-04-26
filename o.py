@@ -1,6 +1,8 @@
 import logging
 import json
 import os
+import time
+import subprocess
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
@@ -9,6 +11,8 @@ TOKEN = '8003231767:AAGewSQTTDGH64C1ADdW14OGWu4yqxmquY8'
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+start_time = time.time()
 
 def get_user_data():
     try:
@@ -112,7 +116,7 @@ async def back(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "    🎬 YT Prem\n" 
         "    🎥 CapCut\n" 
         "    📺 Viu\n" 
-        "┗━━━━━━━━━༻❁༺━━━━━━━━━┛\n"
+        "┗━━━━━━━━━༻❁༺━━━━━━━━┛\n"
         "Pilih salah satu opsi di bawah ini:",
         reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton("GMAIL", callback_data='gmail')],
@@ -148,7 +152,6 @@ async def continue_order(update: Update, context: ContextTypes.DEFAULT_TYPE):
     harga_akun = 5000  # Harga akun set menjadi 5000
 
     if saldo >= harga_akun:
-        # Menampilkan pilihan metode pembayaran
         keyboard = [
             [InlineKeyboardButton("SALDO BOT", callback_data=f"saldo_{order_type}")],
             [InlineKeyboardButton("QRIS", callback_data=f"qris_{order_type}")],
@@ -173,9 +176,7 @@ async def saldo_bot(update: Update, context: ContextTypes.DEFAULT_TYPE):
     saldo = user_data.get(user_id, {}).get("saldo", 0)
     account_type = query.data.split('_')[1]
 
-    # Pastikan saldo cukup untuk mengirimkan akun
-    if saldo >= 5000:  # Sesuai harga akun 5000
-        # Ambil data akun
+    if saldo >= 5000:
         try:
             with open('akun.json', 'r') as f:
                 data = json.load(f)
@@ -214,6 +215,26 @@ async def qris(update: Update, context: ContextTypes.DEFAULT_TYPE):
     qris_link = "awokwokao 🗿"
     await query.message.edit_text(f"Dalam proses pengembangan: {qris_link}")
 
+# Tambahan UPTIME
+async def uptime(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    now = time.time()
+    uptime_seconds = int(now - start_time)
+    uptime_minutes, uptime_seconds = divmod(uptime_seconds, 60)
+    uptime_hours, uptime_minutes = divmod(uptime_minutes, 60)
+    uptime_days, uptime_hours = divmod(uptime_hours, 24)
+    bot_uptime = f"{uptime_days}d {uptime_hours}h {uptime_minutes}m {uptime_seconds}s"
+
+    try:
+        server_uptime = subprocess.check_output("uptime -p", shell=True).decode().strip()
+    except Exception as e:
+        server_uptime = f"Error: {e}"
+
+    await update.message.reply_text(
+        f"🔹 *Uptime Bot:* {bot_uptime}\n"
+        f"🔹 *Uptime Server:* {server_uptime}",
+        parse_mode='Markdown'
+    )
+
 def main():
     app = ApplicationBuilder().token(TOKEN).build()
 
@@ -221,6 +242,7 @@ def main():
     app.add_handler(CommandHandler("menu", menu))
     app.add_handler(CommandHandler("saldo", saldo))
     app.add_handler(CommandHandler("topup", topup))
+    app.add_handler(CommandHandler("uptime", uptime))  # << Tambahin ini
     app.add_handler(CallbackQueryHandler(submenu, pattern='^(gmail|ytprem|capcut|viu)$'))
     app.add_handler(CallbackQueryHandler(back, pattern='^back_'))
     app.add_handler(CallbackQueryHandler(continue_order, pattern='^continue_'))
