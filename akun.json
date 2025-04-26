@@ -1,0 +1,774 @@
+{
+    "gmail": [
+        {
+            "username": "gmailuser7",
+            "password": "password7"
+        },
+        {
+            "username": "gmailuser8",
+            "password": "password8"
+        },
+        {
+            "username": "gmailuser9",
+            "password": "password9"
+        },
+        {
+            "username": "gmailuser10",
+            "password": "password10"
+        },
+        {
+            "username": "gmailuser11",
+            "password": "password11"
+        },
+        {
+            "username": "gmailuser12",
+            "password": "password12"
+        },
+        {
+            "username": "gmailuser13",
+            "password": "password13"
+        },
+        {
+            "username": "gmailuser14",
+            "password": "password14"
+        },
+        {
+            "username": "gmailuser15",
+            "password": "password15"
+        },
+        {
+            "username": "gmailuser16",
+            "password": "password16"
+        },
+        {
+            "username": "gmailuser17",
+            "password": "password17"
+        },
+        {
+            "username": "gmailuser18",
+            "password": "password18"
+        },
+        {
+            "username": "gmailuser19",
+            "password": "password19"
+        },
+        {
+            "username": "gmailuser20",
+            "password": "password20"
+        },
+        {
+            "username": "gmailuser21",
+            "password": "password21"
+        },
+        {
+            "username": "gmailuser22",
+            "password": "password22"
+        },
+        {
+            "username": "gmailuser23",
+            "password": "password23"
+        },
+        {
+            "username": "gmailuser24",
+            "password": "password24"
+        },
+        {
+            "username": "gmailuser25",
+            "password": "password25"
+        },
+        {
+            "username": "gmailuser26",
+            "password": "password26"
+        },
+        {
+            "username": "gmailuser27",
+            "password": "password27"
+        },
+        {
+            "username": "gmailuser28",
+            "password": "password28"
+        },
+        {
+            "username": "gmailuser29",
+            "password": "password29"
+        },
+        {
+            "username": "gmailuser30",
+            "password": "password30"
+        },
+        {
+            "username": "gmailuser31",
+            "password": "password31"
+        },
+        {
+            "username": "gmailuser32",
+            "password": "password32"
+        },
+        {
+            "username": "gmailuser33",
+            "password": "password33"
+        },
+        {
+            "username": "gmailuser34",
+            "password": "password34"
+        },
+        {
+            "username": "gmailuser35",
+            "password": "password35"
+        },
+        {
+            "username": "gmailuser36",
+            "password": "password36"
+        },
+        {
+            "username": "gmailuser37",
+            "password": "password37"
+        },
+        {
+            "username": "gmailuser38",
+            "password": "password38"
+        },
+        {
+            "username": "gmailuser39",
+            "password": "password39"
+        },
+        {
+            "username": "gmailuser40",
+            "password": "password40"
+        },
+        {
+            "username": "gmailuser41",
+            "password": "password41"
+        },
+        {
+            "username": "gmailuser42",
+            "password": "password42"
+        },
+        {
+            "username": "gmailuser43",
+            "password": "password43"
+        },
+        {
+            "username": "gmailuser44",
+            "password": "password44"
+        },
+        {
+            "username": "gmailuser45",
+            "password": "password45"
+        },
+        {
+            "username": "gmailuser46",
+            "password": "password46"
+        },
+        {
+            "username": "gmailuser47",
+            "password": "password47"
+        },
+        {
+            "username": "gmailuser48",
+            "password": "password48"
+        },
+        {
+            "username": "gmailuser49",
+            "password": "password49"
+        },
+        {
+            "username": "gmailuser50",
+            "password": "password50"
+        }
+    ],
+    "ytprem": [
+        {
+            "username": "ytpremuser2",
+            "password": "ytpassword2"
+        },
+        {
+            "username": "ytpremuser3",
+            "password": "ytpassword3"
+        },
+        {
+            "username": "ytpremuser4",
+            "password": "ytpassword4"
+        },
+        {
+            "username": "ytpremuser5",
+            "password": "ytpassword5"
+        },
+        {
+            "username": "ytpremuser6",
+            "password": "ytpassword6"
+        },
+        {
+            "username": "ytpremuser7",
+            "password": "ytpassword7"
+        },
+        {
+            "username": "ytpremuser8",
+            "password": "ytpassword8"
+        },
+        {
+            "username": "ytpremuser9",
+            "password": "ytpassword9"
+        },
+        {
+            "username": "ytpremuser10",
+            "password": "ytpassword10"
+        },
+        {
+            "username": "ytpremuser11",
+            "password": "ytpassword11"
+        },
+        {
+            "username": "ytpremuser12",
+            "password": "ytpassword12"
+        },
+        {
+            "username": "ytpremuser13",
+            "password": "ytpassword13"
+        },
+        {
+            "username": "ytpremuser14",
+            "password": "ytpassword14"
+        },
+        {
+            "username": "ytpremuser15",
+            "password": "ytpassword15"
+        },
+        {
+            "username": "ytpremuser16",
+            "password": "ytpassword16"
+        },
+        {
+            "username": "ytpremuser17",
+            "password": "ytpassword17"
+        },
+        {
+            "username": "ytpremuser18",
+            "password": "ytpassword18"
+        },
+        {
+            "username": "ytpremuser19",
+            "password": "ytpassword19"
+        },
+        {
+            "username": "ytpremuser20",
+            "password": "ytpassword20"
+        },
+        {
+            "username": "ytpremuser21",
+            "password": "ytpassword21"
+        },
+        {
+            "username": "ytpremuser22",
+            "password": "ytpassword22"
+        },
+        {
+            "username": "ytpremuser23",
+            "password": "ytpassword23"
+        },
+        {
+            "username": "ytpremuser24",
+            "password": "ytpassword24"
+        },
+        {
+            "username": "ytpremuser25",
+            "password": "ytpassword25"
+        },
+        {
+            "username": "ytpremuser26",
+            "password": "ytpassword26"
+        },
+        {
+            "username": "ytpremuser27",
+            "password": "ytpassword27"
+        },
+        {
+            "username": "ytpremuser28",
+            "password": "ytpassword28"
+        },
+        {
+            "username": "ytpremuser29",
+            "password": "ytpassword29"
+        },
+        {
+            "username": "ytpremuser30",
+            "password": "ytpassword30"
+        },
+        {
+            "username": "ytpremuser31",
+            "password": "ytpassword31"
+        },
+        {
+            "username": "ytpremuser32",
+            "password": "ytpassword32"
+        },
+        {
+            "username": "ytpremuser33",
+            "password": "ytpassword33"
+        },
+        {
+            "username": "ytpremuser34",
+            "password": "ytpassword34"
+        },
+        {
+            "username": "ytpremuser35",
+            "password": "ytpassword35"
+        },
+        {
+            "username": "ytpremuser36",
+            "password": "ytpassword36"
+        },
+        {
+            "username": "ytpremuser37",
+            "password": "ytpassword37"
+        },
+        {
+            "username": "ytpremuser38",
+            "password": "ytpassword38"
+        },
+        {
+            "username": "ytpremuser39",
+            "password": "ytpassword39"
+        },
+        {
+            "username": "ytpremuser40",
+            "password": "ytpassword40"
+        },
+        {
+            "username": "ytpremuser41",
+            "password": "ytpassword41"
+        },
+        {
+            "username": "ytpremuser42",
+            "password": "ytpassword42"
+        },
+        {
+            "username": "ytpremuser43",
+            "password": "ytpassword43"
+        },
+        {
+            "username": "ytpremuser44",
+            "password": "ytpassword44"
+        },
+        {
+            "username": "ytpremuser45",
+            "password": "ytpassword45"
+        },
+        {
+            "username": "ytpremuser46",
+            "password": "ytpassword46"
+        },
+        {
+            "username": "ytpremuser47",
+            "password": "ytpassword47"
+        },
+        {
+            "username": "ytpremuser48",
+            "password": "ytpassword48"
+        },
+        {
+            "username": "ytpremuser49",
+            "password": "ytpassword49"
+        },
+        {
+            "username": "ytpremuser50",
+            "password": "ytpassword50"
+        }
+    ],
+    "capcut": [
+        {
+            "username": "capcutuser2",
+            "password": "capcutpassword2"
+        },
+        {
+            "username": "capcutuser3",
+            "password": "capcutpassword3"
+        },
+        {
+            "username": "capcutuser4",
+            "password": "capcutpassword4"
+        },
+        {
+            "username": "capcutuser5",
+            "password": "capcutpassword5"
+        },
+        {
+            "username": "capcutuser6",
+            "password": "capcutpassword6"
+        },
+        {
+            "username": "capcutuser7",
+            "password": "capcutpassword7"
+        },
+        {
+            "username": "capcutuser8",
+            "password": "capcutpassword8"
+        },
+        {
+            "username": "capcutuser9",
+            "password": "capcutpassword9"
+        },
+        {
+            "username": "capcutuser10",
+            "password": "capcutpassword10"
+        },
+        {
+            "username": "capcutuser11",
+            "password": "capcutpassword11"
+        },
+        {
+            "username": "capcutuser12",
+            "password": "capcutpassword12"
+        },
+        {
+            "username": "capcutuser13",
+            "password": "capcutpassword13"
+        },
+        {
+            "username": "capcutuser14",
+            "password": "capcutpassword14"
+        },
+        {
+            "username": "capcutuser15",
+            "password": "capcutpassword15"
+        },
+        {
+            "username": "capcutuser16",
+            "password": "capcutpassword16"
+        },
+        {
+            "username": "capcutuser17",
+            "password": "capcutpassword17"
+        },
+        {
+            "username": "capcutuser18",
+            "password": "capcutpassword18"
+        },
+        {
+            "username": "capcutuser19",
+            "password": "capcutpassword19"
+        },
+        {
+            "username": "capcutuser20",
+            "password": "capcutpassword20"
+        },
+        {
+            "username": "capcutuser21",
+            "password": "capcutpassword21"
+        },
+        {
+            "username": "capcutuser22",
+            "password": "capcutpassword22"
+        },
+        {
+            "username": "capcutuser23",
+            "password": "capcutpassword23"
+        },
+        {
+            "username": "capcutuser24",
+            "password": "capcutpassword24"
+        },
+        {
+            "username": "capcutuser25",
+            "password": "capcutpassword25"
+        },
+        {
+            "username": "capcutuser26",
+            "password": "capcutpassword26"
+        },
+        {
+            "username": "capcutuser27",
+            "password": "capcutpassword27"
+        },
+        {
+            "username": "capcutuser28",
+            "password": "capcutpassword28"
+        },
+        {
+            "username": "capcutuser29",
+            "password": "capcutpassword29"
+        },
+        {
+            "username": "capcutuser30",
+            "password": "capcutpassword30"
+        },
+        {
+            "username": "capcutuser31",
+            "password": "capcutpassword31"
+        },
+        {
+            "username": "capcutuser32",
+            "password": "capcutpassword32"
+        },
+        {
+            "username": "capcutuser33",
+            "password": "capcutpassword33"
+        },
+        {
+            "username": "capcutuser34",
+            "password": "capcutpassword34"
+        },
+        {
+            "username": "capcutuser35",
+            "password": "capcutpassword35"
+        },
+        {
+            "username": "capcutuser36",
+            "password": "capcutpassword36"
+        },
+        {
+            "username": "capcutuser37",
+            "password": "capcutpassword37"
+        },
+        {
+            "username": "capcutuser38",
+            "password": "capcutpassword38"
+        },
+        {
+            "username": "capcutuser39",
+            "password": "capcutpassword39"
+        },
+        {
+            "username": "capcutuser40",
+            "password": "capcutpassword40"
+        },
+        {
+            "username": "capcutuser41",
+            "password": "capcutpassword41"
+        },
+        {
+            "username": "capcutuser42",
+            "password": "capcutpassword42"
+        },
+        {
+            "username": "capcutuser43",
+            "password": "capcutpassword43"
+        },
+        {
+            "username": "capcutuser44",
+            "password": "capcutpassword44"
+        },
+        {
+            "username": "capcutuser45",
+            "password": "capcutpassword45"
+        },
+        {
+            "username": "capcutuser46",
+            "password": "capcutpassword46"
+        },
+        {
+            "username": "capcutuser47",
+            "password": "capcutpassword47"
+        },
+        {
+            "username": "capcutuser48",
+            "password": "capcutpassword48"
+        },
+        {
+            "username": "capcutuser49",
+            "password": "capcutpassword49"
+        },
+        {
+            "username": "capcutuser50",
+            "password": "capcutpassword50"
+        }
+    ],
+    "viu": [
+        {
+            "username": "viuuser2",
+            "password": "viupassword2"
+        },
+        {
+            "username": "viuuser3",
+            "password": "viupassword3"
+        },
+        {
+            "username": "viuuser4",
+            "password": "viupassword4"
+        },
+        {
+            "username": "viuuser5",
+            "password": "viupassword5"
+        },
+        {
+            "username": "viuuser6",
+            "password": "viupassword6"
+        },
+        {
+            "username": "viuuser7",
+            "password": "viupassword7"
+        },
+        {
+            "username": "viuuser8",
+            "password": "viupassword8"
+        },
+        {
+            "username": "viuuser9",
+            "password": "viupassword9"
+        },
+        {
+            "username": "viuuser10",
+            "password": "viupassword10"
+        },
+        {
+            "username": "viuuser11",
+            "password": "viupassword11"
+        },
+        {
+            "username": "viuuser12",
+            "password": "viupassword12"
+        },
+        {
+            "username": "viuuser13",
+            "password": "viupassword13"
+        },
+        {
+            "username": "viuuser14",
+            "password": "viupassword14"
+        },
+        {
+            "username": "viuuser15",
+            "password": "viupassword15"
+        },
+        {
+            "username": "viuuser16",
+            "password": "viupassword16"
+        },
+        {
+            "username": "viuuser17",
+            "password": "viupassword17"
+        },
+        {
+            "username": "viuuser18",
+            "password": "viupassword18"
+        },
+        {
+            "username": "viuuser19",
+            "password": "viupassword19"
+        },
+        {
+            "username": "viuuser20",
+            "password": "viupassword20"
+        },
+        {
+            "username": "viuuser21",
+            "password": "viupassword21"
+        },
+        {
+            "username": "viuuser22",
+            "password": "viupassword22"
+        },
+        {
+            "username": "viuuser23",
+            "password": "viupassword23"
+        },
+        {
+            "username": "viuuser24",
+            "password": "viupassword24"
+        },
+        {
+            "username": "viuuser25",
+            "password": "viupassword25"
+        },
+        {
+            "username": "viuuser26",
+            "password": "viupassword26"
+        },
+        {
+            "username": "viuuser27",
+            "password": "viupassword27"
+        },
+        {
+            "username": "viuuser28",
+            "password": "viupassword28"
+        },
+        {
+            "username": "viuuser29",
+            "password": "viupassword29"
+        },
+        {
+            "username": "viuuser30",
+            "password": "viupassword30"
+        },
+        {
+            "username": "viuuser31",
+            "password": "viupassword31"
+        },
+        {
+            "username": "viuuser32",
+            "password": "viupassword32"
+        },
+        {
+            "username": "viuuser33",
+            "password": "viupassword33"
+        },
+        {
+            "username": "viuuser34",
+            "password": "viupassword34"
+        },
+        {
+            "username": "viuuser35",
+            "password": "viupassword35"
+        },
+        {
+            "username": "viuuser36",
+            "password": "viupassword36"
+        },
+        {
+            "username": "viuuser37",
+            "password": "viupassword37"
+        },
+        {
+            "username": "viuuser38",
+            "password": "viupassword38"
+        },
+        {
+            "username": "viuuser39",
+            "password": "viupassword39"
+        },
+        {
+            "username": "viuuser40",
+            "password": "viupassword40"
+        },
+        {
+            "username": "viuuser41",
+            "password": "viupassword41"
+        },
+        {
+            "username": "viuuser42",
+            "password": "viupassword42"
+        },
+        {
+            "username": "viuuser43",
+            "password": "viupassword43"
+        },
+        {
+            "username": "viuuser44",
+            "password": "viupassword44"
+        },
+        {
+            "username": "viuuser45",
+            "password": "viupassword45"
+        },
+        {
+            "username": "viuuser46",
+            "password": "viupassword46"
+        },
+        {
+            "username": "viuuser47",
+            "password": "viupassword47"
+        },
+        {
+            "username": "viuuser48",
+            "password": "viupassword48"
+        },
+        {
+            "username": "viuuser49",
+            "password": "viupassword49"
+        },
+        {
+            "username": "viuuser50",
+            "password": "viupassword50"
+        }
+    ]
+}
